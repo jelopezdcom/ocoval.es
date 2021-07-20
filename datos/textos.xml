@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MenuPrincipal>
+<!--en los textos con CDATA se puede usar todos los formatos de html, por ejemplo insertar una imagen o un vinculo href, etc...-->
+	<!--cada registro es un apartado del menu-->
+	<registro> 
+				<!--el nombre es el del boton no debe de tener espacios-->
+				<menudependiente>Inicio</menudependiente>
+				<dependiente>Inicio</dependiente>
+				<!--el titulo es lo que se ve-->
+				<titulo><![CDATA[<font color="#000000" size="16"><b>BIENVENIDO A OCOVAL</b></font>]]></titulo>
+				<!--el icono la imagen que sale en el menu-->
+			    <imagen></imagen>
+				<!--si tiene que redireccionar a algun sitio: si empieza por "http://" abrira un popup-->
+				<link></link>
+				<!--texto que sale en el contenido, si no hay texto no sale nada claro esta-->
+	            <texto><![CDATA[<font color="#000000" size="16"><td>	En la Oficina de Coordinación de Obras de Valencia estamos a su servicio para:
+- Tramitar las licencias de acometidas de servicios a su edificio.<br>- Tramitar la autorización para instalar soportes publicitarios.<br>- Atenderle y resolver las deficiencias detectadas en la conservación de la vía pública.<br>- Informarle de las obras en vía pública que se están ejecutando en la ciudad y de las previstas.<br>- Facilitarle la comunicación con las compañías de servicios y el Ayuntamiento.<br>- Velar por la calidad y la seguridad de las obras en vía pública que se ejecutan en Valencia.</td></font>]]></texto>
+	</registro>
+	<registro> 
+				<!--el nombre es el del boton no debe de tener espacios-->
+				<menudependiente>Zanjas y Catas</menudependiente>
+				<dependiente>Solicitud de Licencia</dependiente>
+				<!--el titulo es lo que se ve-->
+				<titulo><![CDATA[<font color="#000000" size="16"><b>LICENCIA PARA APERTURA DE ZANJAS Y CALAS EN VÍA PÚBLICA</b></font>]]></titulo>
+				<!--el icono la imagen que sale en el menu-->
+			    <imagen></imagen>
+				<!--si tiene que redireccionar a algun sitio: si empieza por "http://" abrira un popup-->
+				<link></link>
+				<!--texto que sale en el contenido, si no hay texto no sale nada claro esta-->
+	            <texto><![CDATA[<font color="#000000"><td>	La Oficina de Coordinación de Obras de Valencia es responsable de la gestión, coordinación e inspección de las obras de zanjas y calas para la instalación de servicios públicos en el subsuelo, suelo y vuelo de dominio y uso público municipal, así como de la tramitación de las licencias para dichas obras y de la homologación de empresas contratistas.	
+</font><font color="#003366">¿Qué debe hacer para obtener una licencia?</font><font color="#000000">	
+<ul><li>Presentar una <font color="#003366">instancia</font> (según modelo oficial) en OCOVAL solicitando licencia para apertura de zanjas y calas en vía pública, acompañada de la documentación necesaria.</li><br><li>Es en OCOVAL donde se liquidarán las tasas correspondientes según la documentación aportada.</li><br><li>A continuación, las tasas deberán ser abonadas en cualquiera de las entidades bancarias colaboradoras.</li><br><li>Posteriormente, se registrará en OCOVAL (o en cualquier Registro Municipal) la instancia junto con la documentación y el justificante del pago de las tasas.</li></ul>	<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudzanjas.pdf" target="_blank"><u>Solicitud</u></a> de licencia para apertura de zanjas y calas en la vía pública.	
+</font><font color="#003366">¿Qué datos son necesarios?</font><font color="#000000">	
+<ul><li>Datos de la persona, comunidad de propietarios o empresa que será titular de la licencia.</li><br><li>Tipo de obra a realizar (agua potable, desagües, gas, electricidad, telecomunicaciones, etc.).</li><br><li>Emplazamiento de la obra (calle y número).</li><br><li>Longitud de la zanja en acera y en calzada.</li><br><li>Tipos de pavimento (asfalto, baldosa, tierra, cemento, etc.).</li></ul>
+</font><font color="#003366">¿Qué documentación debe aportar?</font><font color="#000000">	
+	La documentación necesaria depende del tipo de zanja que desee realizar: canalización eléctrica, canalización de telecomunicaciones, acometida de desagüe o tallo de gas.	
+<u>Canalización eléctrica</u>	
+<ul><li>Instancia de Solicitud de Licencia para Apertura de Zanjas y Calas en la Vía Pública, según modelo normalizado, suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Datos del promotor en caso de no coincidir con el solicitante de la licencia (nombre de la promotora, persona de contacto, dirección y teléfono).</li><br><li>Carta de pago de la fianza.</li><br><li>Proyecto de la línea que se va a ejecutar visado o, en caso de presentarse sin visar, acompañado de la declaración responsable del técnico competente, presentados preferentemente en formato digital.</li><br><li>Plano del punto de suministro con el VºBº de Iberdrola o empresa suministradora.</li><br><li>Plano de emplazamiento a escala 1/1000 o superior indicando: Trazado de la canalización. Necesidades de ocupación de la vía pública para la ejecución de la obra: situación de contenedores de obra, acopio de materiales, espacios protegidos para circulación de peatones, caseta de obra, maquinaria auxiliar, etc. Descripción general de la vía afectada: ancho de acera y calzada, número de carriles, sentido de la circulación, situación y características de los aparcamientos, carriles bus, etc.</li><br><li>Copia de la homologación del contratista para realizar obras de canalización en Valencia.</li><br><li>Presupuesto de la obra y plazos de ejecución.</li></ul>
+<u>Canalización de telecomunicaciones</u>	
+<ul><li>Instancia de Solicitud de Licencia para Apertura de Zanjas y Calas en la Vía Pública, según modelo normalizado, suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Datos del promotor en caso de no coincidir con el solicitante de la licencia (nombre de la promotora, persona de contacto, dirección y teléfono).</li><br><li>Carta de pago de la fianza.</li><br><li>Proyecto de la línea que se va a ejecutar visado o, en caso de presentarse sin visar, acompañado de la declaración responsable del técnico competente, presentados preferentemente en formato digital.</li><br><li>Plano del punto de suministro facilitado por Telefónica y el convenio firmado por ambas partes.</li><br><li>Plano de emplazamiento a escala 1/1000 o superior indicando: Trazado de la canalización. Necesidades de ocupación de la vía pública para la ejecución de la obra: situación de contenedores de obra, acopio de materiales, espacios protegidos para circulación de peatones, caseta de obra, maquinaria auxiliar, etc. Descripción general de la vía afectada: ancho de acera y calzada, número de carriles, sentido de la circulación, situación y características de los aparcamientos, carriles bus, etc.</li><br><li>Copia de la homologación del contratista para realizar obras de canalización en Valencia.</li><br><li>Presupuesto de la obra y plazos de ejecución.</li></ul>
+<u>Acometida de desagüe</u>	
+<ul><li>Instancia de Solicitud de Licencia para Apertura de Zanjas y Calas en la Vía Pública, según modelo normalizado, suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Datos del presidente de la comunidad de propietarios en caso de estar constituida (nombre, dirección y teléfono).</li><br><li>Carta de pago de la fianza y tasas.</li><br><li>Plano del Ciclo Integral del Agua con los puntos de conexión (solicitar en Ocoval).</li><br><li>Plano de emplazamiento a escala 1/1000 o superior indicando: Trazado de la canalización. Necesidades de ocupación de la vía pública para la ejecución de la obra: situación de contenedores de obra, acopio de materiales, espacios protegidos para circulación de peatones, caseta de obra, maquinaria auxiliar, etc. Descripción general de la vía afectada: ancho de acera y calzada, número de carriles, sentido de la circulación, situación y características de los aparcamientos, carriles bus, etc.</li><br><li>Plano con propuesta del desvío alternativo del tráfico en caso de ser necesario el corte de la calle.</li><br><li>Presupuesto de la obra y plazos de ejecución. El trabajo deberá ser ejecutado por una empresa homologada por el Ayuntamiento de Valencia para realizar obras en la vía pública.</li></ul>
+<u>Tallo de gas</u>	
+<ul><li>Instancia de Solicitud de Licencia para Apertura de Zanjas y Calas en la Vía Pública, según modelo normalizado, suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Datos del promotor en caso de no coincidir con el solicitante de la licencia (nombre de la promotora, persona de contacto, dirección y teléfono).</li><br><li>Carta de pago de las tasas.</li><br><li>Plano de emplazamiento a escala 1/1000 o superior indicando: Situación de la cala. Necesidades de ocupación de la vía pública para la ejecución de la obra. Descripción general de la vía afectada.</li><br><li>Presupuesto de la obra y plazos de ejecución.</li></ul>
+<u>Acometida de agua potable por fuga o avería</u>	
+<ul><li>Instancia de Solicitud de Licencia para Apertura de Zanjas y Calas en la Vía Pública, según modelo normalizado, suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Informe de Emivasa sobre las obras a realizar.</li><br><li>Carta de pago de las tasas.</li><br><li>Plano de emplazamiento a escala 1/1000 o superior indicando: Situación de la cala. Necesidades de ocupación de la vía pública para la ejecución de la obra. Descripción general de la vía afectada.</li><br><li>Presupuesto de la obra y plazos de ejecución.</li></ul>
+</font><font color="#003366">Además ...</font><font color="#000000">	
+	Es obligatorio aportar un <font color="#003366">plano de emplazamiento acotado</font> especificando la longitud de la obra en acera y en calzada, ancho de la acera, carriles que tiene la calle y carriles que ocupa la obra (o anchura de ocupación de calzada y anchura de calzada libre), así como abonar las tasas correspondientes.	
+</font><font color="#003366">Debe saber que ...</font><font color="#000000">	
+	Ni la solicitud de la licencia, ni el pago de la tasa y de la fianza, autorizan el inicio de las obras.	
+</font><font color="#003366">Concedida la licencia y antes de comenzar la obra ...</font><font color="#000000">	
+	<font color="#003366">Se deberá solicitar al Servicio de Circulación y Transportes del Ayuntamiento de Valencia, Sección Afecciones y Ocupaciones, el oportuno permiso,</font> indicándoles sobre plano la delimitación y características propias de la zona donde se va a realizar el trabajo. La Sección Afecciones y Ocupaciones de la Vía Pública se encuentra en la c./ Amadeo de Saboya, 11, patio D, planta 1, teléfono 96 352 54 78, Ext. 3029. Una vez obtenido, <font color="#003366">se enviará dicho permiso a OCOVAL</font> mediante un fax al número 96 352 55 21 para informar del inicio y duración de la obra.	
+</font><font color="#003366">Terminada la obra ...<font color="#000000">	
+	El <font color="#003366">titular de la licencia</font> deberá, inexcusablemente, comunicar por escrito a la Oficina de Coordinación de Obras en Vía Pública <font color="#003366">la fecha de terminación de la obra</font>, para la certificación provisional de la misma por la inspección municipal. El plazo de garantía de la obra, salvo vicios ocultos, es de <font color="#003366">un año</font> a partir de la finalización de la misma, durante el cual el titular responderá de su conservación. <font color="#003366">Transcurrido dicho plazo</font> y previo informe favorable de la inspección municipal, se podrá solicitar a instancia del interesado la <font color="#003366">devolución del depósito de fianza</font> efectuado, agilizándose los trámites si se acompaña a la solicitud la carta de pago original y una copia de la licencia concedida, así como el número de cuenta bancaria con un documento bancario que acredite la titularidad, en la cual le será reintegrada la cantidad a devolver. A efectos de devolución de fianza, contará como fecha de terminación la de certificación provisional realizada por la inspección municipal. En caso de deficiencias en la ejecución de la obra, se le notificará al titular.	
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">	
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono 96 337 02 28.	
+</td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Zanjas y Catas</menudependiente>
+				<dependiente>Ordenanza y Carteles</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>ORDENANZA REGULADORA DE ZANJAS, CATAS Y COORDINACIÓN DE OBRAS EN VÍA PÚBLICA</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font color="#003366"><td>OBJETO</font><font color="#000000">	
+	Esta ordenanza tiene por objeto regular, dentro del ámbito municipal, las condiciones técnicas y criterios de coordinación a que deban sujetarse las obras de zanjas y calas para la instalación de servicios públicos en el subsuelo, suelo y vuelo de dominio y uso público municipal.	<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Ordenanzazanjas.pdf" target="_blank"><u>Ordenanza</u></a> Reguladora de Zanjas, Catas y Coordinación de Obras en la Vía Pública.	
+</font><font color="#003366">CARTELES DE OBRA</font><font color="#000000">	
+	La información se realizará a través de carteles, bien visibles, en los que deberá figurar:	
+<ul><li>Logotipo y nombre y teléfono de la entidad promotora o titular de la licencia.</li><br><li>Logotipo, nombre y teléfono de la empresa que realiza las obras.</li><br><li>Naturaleza, permiso, localización, fechas de inicio y finalización de las obras.</li><br><li>Logotipo y nombre del Ayuntamiento y de la Oficina de Coordinación de Obras.</li></ul>
+	Todos los elementos de señalización informativa y vallado, tales como rótulos de indicación de obras, paneles informativos y vallas de cerramiento, corresponderán a los modelos aprobados por el Ayuntamiento y ajustados a los colores identificadores de la entidad promotora.</font><font color="#003366"> El cartel general de obra y el cartel para vallas de obra se ajustarán a los siguientes modelos:	</font><font color="#000000">
+<a href="archivos/CartelObra.jpg" target="_blank"><u>Ver Cartel Informativo de Obra</u></a>      <a href="archivos/CartelVallasObra.jpg" target="_blank"><u>Ver Cartel para Vallas de Obra</u></a>
+	Descargas:	
+<a href="archivos/CarteldeObraSVG.zip" target="_blank"><u>Cartel Informativo Obra</u></a>	
+<a href="archivos/CartelparaVallasFreehand.zip" target="_blank"><u>Cartel Vallas Obra</u></a>	
+</td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Zanjas y Catas</menudependiente>
+				<dependiente>Homologación</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>HOMOLOGACIÓN DE LAS EMPRESAS CONTRATISTAS</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font color="#000000"><td>	Todas las empresas que realicen obras en el dominio público municipal, están obligadas a poseer el correspondiente documento de homologación.
+</font><font color="#003366">¿Qué debe hacer?</font><font color="#000000">	
+	Presentar una instancia general (según modelo oficial) en OCOVAL o en los Registros de entrada del Ayuntamiento de Valencia solicitando homologación de empresa para apertura de zanjas y calas en vía pública.	<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudgeneral.pdf" target="_blank"><u>Solicitud general</u></a>	
+</font><font color="#003366">¿Qué documentación debe aportar?</font><font color="#000000">	
+<ul><li>Instancia de Solicitud suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Copia simple de la escritura de constitución de la sociedad.</li><br><li>Copia acreditativa del alta en el Impuesto de Actividades Económicas.</li><br><li>Documentación que acredite la disponibilidad de medios y experiencia de la empresa en trabajos de análoga naturaleza.</li><br><li>Fotocopia del último recibo pagado del Seguro de Responsabilidad Civil, copia de la póliza con cobertura mínima de 500.000 euros y certificado de la compañía aseguradora en el que se indique expresamente que dicho seguro ampara los daños que puedan producirse a personas y/o bienes durante las obras a efectuar en o desde el dominio público municipal.</li><br><li>Cuanta información considere oportuna el interesado para un mejor conocimiento de su actividad.</li></ul>
+</font><font color="#003366">Debe saber que ...</font><font color="#000000">	
+	Esta homologación se concederá por un plazo de dos años, al término del cual se entenderá prorrogada tácitamente por un único periodo de igual duración (dos años más), salvo manifestación expresa en otro sentido por parte del Ayuntamiento o del interesado. Para renovar la homologación debe solicitarlo al menos dos meses antes de la fecha de vencimiento de la prórroga.	
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">	
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono 96 337 02 28.	
+</td></font>]]></texto>
+	</registro>
+	<registro>
+				<menudependiente>Zanjas y Catas</menudependiente>
+				<dependiente>Renovación homologación</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>RENOVACIÓN DE LA HOMOLOGACIÓN DE LAS EMPRESAS CONTRATISTAS</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font color="#000000"><td>	Antes del vencimiento de la homologación que toda empresa que realice obras en el dominio público municipal está obligada a poseer, es posible solicitar su renovación.	
+</font><font color="#003366">¿Qué debe hacer?</font><font color="#000000">	
+	Presentar una instancia general (según modelo oficial) en OCOVAL o en los Registros de entrada del Ayuntamiento de Valencia solicitando la renovación de la homologación de empresa para apertura de zanjas y calas en vía pública.							<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudgeneral.pdf" target="_blank"><u>Solicitud general</u></a>	
+</font><font color="#003366">¿Qué documentación debe aportar?</font><font color="#000000">	
+<ul><li>Instancia de Solicitud suscrita por el/la peticionario/a de la licencia, o por su representante legal en el caso de ser una persona jurídica (Sociedad).</li><br><li>Original y fotocopia del CIF o NIF del/de la solicitante y de su legal representante, en su caso.</li><br><li>Copia acreditativa del alta en el Impuesto de Actividades Económicas.</li><br><li>Fotocopia del último recibo pagado del Seguro de Responsabilidad Civil, copia de la póliza con cobertura mínima de 500.000 euros y certificado de la compañía aseguradora en el que se indique expresamente que dicho seguro ampara los daños que puedan producirse a personas y/o bienes durante las obras a efectuar en o desde el dominio público municipal.</li><br><li>Número del expediente de la licencia de la que se solicita la renovación.</li></ul>
+</font><font color="#003366">Debe saber que ...</font><font color="#000000">	
+	Esta nueva homologación se concederá también por un plazo de dos años, al término del cual se entenderá prorrogada tácitamente por un único periodo de igual duración (dos años más), salvo manifestación expresa en otro sentido por parte del Ayuntamiento o del interesado. Para renovar de nuevo la homologación debe solicitarlo al menos dos meses antes de la fecha de vencimiento de la prórroga.	
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">	
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono 96 337 02 28.	
+</td></font>]]></texto>
+	</registro>
+	<registro>
+				<menudependiente>Soportes Publicitarios</menudependiente>
+				<dependiente>Solicitud de Licencia</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>LICENCIA PARA INSTALACIÓN DE SOPORTES PUBLICITARIOS EN SOLARES Y MEDIANERAS</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><br />	La Oficina de Coordinación de Obras de Valencia se encarga de la tramitación de las solicitudes de licencia para la colocación de</font><font color="#003366"> soportes publicitarios en solares y medianeras</font><font color="#000000"> en dominio privado perceptibles desde la vía pública en suelo urbano en aplicación de la vigente Ordenanza Municipal sobre Publicidad, realizando, así mismo, la inspección de los mismos y el control del Registro Municipal de Publicidad en lo que a dichos soportes publicitarios se refiere. Cualquier otro tipo de publicidad se tramitará en las Juntas Municipales de Distrito correspondientes.	
+</font><font color="#003366">¿Qué debe hacer?</font><font color="#000000">	
+	Presentar una</font><font color="#003366"> instancia</font><font color="#000000"> (según modelo oficial) para colocación de soportes publicitarios en solares y medianeras en OCOVAL o en los Registros de entrada del Ayuntamiento de Valencia, o realizar directamente el trámite a través de la Sede Electrónica Municipal (pulse para <a href="https://sede.valencia.es/sede/registro/procedimiento/WEB_ASSET_CRG_0181" target="_blank"><u>iniciar trámite</u></a>).</font><font color="#000000"><img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudpublicidad.pdf" target="_blank"><u>Solicitud de licencia</u></a> para colocación de soportes publicitarios.	
+</font><font color="#003366">¿Qué documentación es necesaria?</font><font color="#000000">	
+	Para la tramitación del expediente para colocación de soportes publicitarios en solares y medianeras y sin perjuicio de las autorizaciones que procedan por otras Administraciones públicas competentes, será preceptivo la presentación de la siguiente documentación:	
+<ul><li><font color="#003366">Proyecto</font> suscrito por técnico competente y visado por el Colegio profesional correspondiente, presentado preferentemente en formato digital.</li></ul><img src="imagenes/icono2-pdf.png"><br><a href="archivos/ProyectoPublicidadSolares.pdf" target="_blank"><u>Contenido mínimo del Proyecto de Soportes Publicitarios en solares.</u></a>	<img src="imagenes/icono2-pdf.png"><br><br><a href="archivos/ProyectoPublicidadMedianeras.pdf" target="_blank"><u>Contenido mínimo del Proyecto de Publicidad pintada en medianeras.</u></a>	<img src="imagenes/icono2-pdf.png"><br><br><a href="archivos/ProyectoPublicidadLonas.pdf" target="_blank"><u>Contenido mínimo del Proyecto de Publicidad de lona microperforada en medianera.</u></a>	
+<ul><li>Estudio Básico de Seguridad y Salud.</li><br><li>Autorización de la propiedad del edificio, local o parcela y en su caso acuerdo de la comunidad de propietarios, y de la propiedad colindante si la instalación es en una medianera, en el que deberá constar necesariamente el número del CIF/NIF de la propiedad o comunidad de propietarios.</li><br><li>En el caso de ubicarse en una parcela se facilitará su <font color="#003366">Referencia Catastral</font>.</li><br><li><font color="#003366">Proyecto específico de las instalaciones eléctricas</font> de acuerdo con la normativa vigente en caso de que se trate de un elemento luminoso, presentado preferentemente en formato digital.</li><br><li>Acreditación de suscripción de <font color="#003366">Póliza de Seguro de Responsabilidad Civil</font> que cubra los daños que puedan derivarse de la colocación y explotación de dicho elemento.</li><br><li>Acreditación, para las personas físicas o jurídicas que de forma habitual y profesional se dediquen a la actividad publicitaria, de estar inscritos en el <font color="#003366">Registro Municipal de Empresas Publicitarias</font>.</li><br><li><font color="#003366">Carta de pago</font> de haber satisfecho el ingreso previo de la <font color="#003366">Tasa o Precio Público</font> liquidado de acuerdo con la Ordenanza Fiscal correspondiente.</li></ul>
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">	
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono</font><font color="#003366"> 96 337 02 28</font><font color="#000000">.	
+<td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Soportes Publicitarios</menudependiente>
+				<dependiente>Ordenanza y Placa</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>ORDENANZA MUNICIPAL SOBRE PUBLICIDAD Y PLACA IDENTIFICATIVA</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#003366">OBJETO</font><font color="#000000">	
+	Esta ordenanza tiene por objeto regular las condiciones a que deberá sujetarse la publicidad instalada o efectuada en el dominio público municipal o perceptible desde el mismo, y en sus aspectos sustantivo y procedimental.<img src="imagenes/icono2-pdf.png">
+<a href="archivos/OrdenanzaPublicidad.pdf" target="_blank"><u>Ordenanza</u></a> Municipal sobre Publicidad.	
+	En los módulos de fijación de soportes publicitarios deberá constar el nombre o razón social de la empresa propietaria y fijarse además, en la parte inferior del panel una placa identificativa de 30 centímetros de largo por 10 centímetros de alto, en las que deberá constar la empresa, el número de resolución de alcaldía y las fechas de la autorización.	<img src="imagenes/icono2-pdf.png">
+<a href="archivos/PlacaVallas.jpg" target="_blank"><u>Ver Placa identificativa para Soportes Publicitarios</u></a>.	
+Descarga:	<img src="imagenes/icono2-zip.png">
+<a href="archivos/PlacaVallasFreehand.zip" target="_blank"><u>Placa Vallas</u></a>.	
+<td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Soportes Publicitarios</menudependiente>
+				<dependiente>Inscripción en Registro</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>INSCRIPCIÓN EN EL REGISTRO MUNICIPAL DE EMPRESAS PUBLICITARIAS</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11">	La Oficina de Coordinación de Obras de Valencia gestiona el </font><font color="#003366">Registro municipal de Empresas Publicitarias</font><font color="#000000">. En dicho registro deberán inscribirse las personas físicas o jurídicas que de forma habitual y profesional se dediquen a esta actividad.	
+</font><font color="#003366">¿Qué debe hacer?</font><font color="#000000">	
+	Presentar una</font><font color="#003366"> instancia</font><font color="#000000"> (según modelo oficial) en OCOVAL o en los Registros de entrada del Ayuntamiento de Valencia</font><font color="#003366"> solicitando la inscripción en el Registro municipal de Empresas Publicitarias</font><font color="#000000">.			<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudgeneral.pdf" target="_blank"><u>Solicitud general</u></a>.	
+</font><font color="#003366">¿Qué documentación es necesaria?</font><font color="#000000">	
+	Los interesados deberán aportar la siguiente documentación:	
+<ul><li>Copia cotejada del N.I.F o C.I.F., según corresponda.</li><br><li>En el caso de personas jurídicas, copia o testimonio de Escritura de Constitución, acompañada de acreditación de su inscripción en el Registro Público que proceda.</li><br><li>Licencia de Actividad.</li><br><li>Acreditación de la inscripción en la matrícula correspondiente en el Impuesto de Actividades Económicas.</li><br><li>Memoria de Actividades en la que se especificarán medios técnicos y humanos con los que se cuenta para el desarrollo de la actividad, así como experiencia en el sector publicitario.</li><br><li>Acreditación de la suscripción de una póliza de seguro de responsabilidad civil, que cubra los daños que puedan derivarse de la actividad.</li></ul>
+</font><font color="#003366">Debe saber que ...</font><font color="#000000">	
+	La inscripción en el Registro municipal de Empresas Publicitarias tendrá carácter temporal y su validez máxima no podrá exceder de 5 años, quedando automáticamente caducada si no se solicita su renovación en tiempo y forma, con un plazo de antelación de 6 meses.	
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">	
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono</font><font color="#003366"> 96 337 02 28</font><font color="#000000">.	
+<td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Soportes Publicitarios</menudependiente>
+				<dependiente>Renovación</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>RENOVACIÓN DE INSTALACIONES DE SOPORTES PUBLICITARIOS EN SOLARES Y MEDIANERAS</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><br />	La Oficina de Coordinación de Obras de Valencia se encarga de la tramitación de las renovaciones de licencia para la colocación de</font><font color="#003366"> soportes publicitarios en solares y medianeras</font><font color="#000000"> en dominio privado perceptibles desde la vía pública en aplicación de la vigente Ordenanza Municipal sobre Publicidad.	
+</font><font color="#003366">¿Qué debe hacer?</font><font color="#000000">	
+	Presentar una</font><font color="#003366"> instancia</font><font color="#000000"> (según modelo oficial) para colocación de soportes publicitarios en OCOVAL o en los Registros de entrada del Ayuntamiento de Valencia, o realizar directamente el trámite a través de la Sede Electrónica Municipal (pulse para <a href="https://sede.valencia.es/sede/registro/procedimiento/WEB_ASSET_CRG_0181" target="_blank"><u>iniciar trámite</u></a>).</font><font color="#000000">			<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudpublicidad.pdf" target="_blank"><u>Solicitud de licencia</u></a> para colocación de soportes publicitarios.	
+</font><font color="#003366">¿Qué documentación es necesaria?</font><font color="#000000">	
+	Para la tramitación del expediente y sin perjuicio de las autorizaciones que procedan por otras Administraciones públicas competentes, será preceptivo la presentación de la siguiente documentación:	
+<ul><li><font color="#003366">Carta de pago</font> de haber satisfecho el ingreso previo de la <font color="#003366">Tasa o Precio Público</font> liquidado de acuerdo con la Ordenanza Fiscal correspondiente.</li>
+<ul><li>Una vez finalizado el plazo de vigencia de la licencia de instalación, si no hubiesen variado las condiciones urbanísticas ni las características técnicas del soporte publicitario, no será necesario aportar nuevo proyecto técnico, será suficiente aportar la <font color="#003366">copia del proyecto técnico anterior</font> (preferentemente en formato digital) y un certificado suscrito por técnico competente y visado por su Colegio profesional, de que la instalación se encuentra en las debidas condiciones de estabilidad y seguridad. En el certificado de seguridad deberá figurar necesariamente la referencia del expediente en que se haya tramitado la licencia correspondiente. En caso contrario, se requerirá <font color="#003366">Proyecto</font> suscrito por técnico competente y visado por el Colegio profesional correspondiente, presentado preferentemente en formato digital.</li></ul><img src="imagenes/icono2-pdf.png"><br><a href="archivos/ProyectoPublicidadSolares.pdf" target="_blank"><u>Contenido mínimo del Proyecto de Soportes Publicitarios en solares.</u></a>	<img src="imagenes/icono2-pdf.png"><br><br><a href="archivos/ProyectoPublicidadMedianeras.pdf" target="_blank"><u>Contenido mínimo del Proyecto de Publicidad pintada en medianeras.</u></a>	<img src="imagenes/icono2-pdf.png"><br><br><a href="archivos/ProyectoPublicidadLonas.pdf" target="_blank"><u>Contenido mínimo del Proyecto de Publicidad de lona microperforada en medianera.</u></a>	
+<ul><li>Autorización de la propiedad del edificio, local o parcela y en su caso acuerdo de la comunidad de propietarios, y de la propiedad colindante si la instalación es en una medianera, con fecha actualizada.</li><br><li>Acreditación del pago de la <font color="#003366">Póliza de Seguro de Responsabilidad Civil</font> que cubra los daños que puedan derivarse de la colocación y explotación de dicho elemento o, en caso de que la mercantil hubiera cambiado de compañía, acreditación de suscripción de la nueva póliza.</li></ul>
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">	
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono</font><font color="#003366"> 96 337 02 28</font><font color="#000000">.	
+<td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Ocoval</menudependiente>
+				<dependiente>Integrantes</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>INTEGRANTES</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><td>	El 3 de noviembre de 1992, nace la OFICINA DE COORDINACION DE OBRAS DE VALENCIA, A.I.E., formando parte de la misma el Exmo. Ayuntamiento de Valencia, Emivasa, Gas Natural Cegas, Iberdrola, Telefónica y ONO, con el objeto social de desarrollar un programa de gestión coordinada para la ejecución de las obras en la vía pública que realicen la Administración municipal y las compañías suministradoras de servicios públicos básicos.<br>
+     Se facilitan los trámites técnicos y administrativos para el otorgamiento de las licencias y autorizaciones, coordinación, planificación de las obras, programación y señalamiento para su ejecución.<br>
+    Transmitimos al ciudadano toda aquella información de interés que, como consecuencia de las obras, pueda afectar a su calidad de vida, siendo un instrumento eficaz en la comunicación entre la Administración Pública y la ciudadanía. De igual manera, existe una extensión del Registro General de entrada del Ayuntamiento de Valencia en nuestras oficinas para poder acercar más, si cabe, la Administración al ciudadano.	
+</td></font>]]>
+				</texto>
+	</registro>
+	<registro>  
+				<menudependiente>Ocoval</menudependiente>
+				<dependiente>Enlaces</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>ENLACES</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<!--<texto> <![CDATA[<font  color="#000000" size="11"><td><A href="http://www.valencia.es" target="_blank">		Ayuntamiento Valencia</A><br><br><A href="http://www.ono.es" target="_blank">		Ono</A><br><br><A href="http://www.gasnatural.com" target="_blank">		GasNatural</A><br><br><A href="http://www.iberdrola.es" target="_blank">		Iberdrola</A><br><br><A href="http://www.telefonica.es" target="_blank">		Telefonica</A><br><br><A href="http://www.aguasdevalencia.es" target="_blank">		Emivasa</A><br><br><A href="http://www.valencia.es/ayuntamiento/trafico.nsf/vPortadasTituloAux/Portada?opendocument&lang=1&nivel=1" target="_blank">		Trafico</A><br><br><A href="http://www.valencia.es/urbanismo" target="_blank">		Urbanismo</A><br><br></td></font>]]>-->
+				<texto> <![CDATA[<font  color="#000000" size="11"><td><img src="img\logoEnlaces\todosok.gif"><br>		<A href="http://www.valencia.es" target="_blank">- Ayuntamiento Valencia </A><br><br><br><A href="http://www.aumsa.es" target="_blank">		- Aumsa</A><br><br><br><A href="http://www.aguasdevalencia.es" target="_blank">		- Emivasa</A><br><br><br><A href="http://www.gasnatural.com" target="_blank">		- GasNatural</A><br><br><br><A href="http://www.iberdrola.es" target="_blank">		- Iberdrola</A><br><br><br><A href="http://www.ono.es" target="_blank">		- Ono</A><br><br><br><A href="http://www.telefonica.es" target="_blank">		- Telefónica</A><br><br><br><A href="http://www.valencia.es/ayuntamiento/trafico.nsf/vPortadasTituloAux/Portada?opendocument&lang=1&nivel=1" target="_blank">		- Tráfico</A><br><br><br><A href="http://www.valencia.es/urbanismo" target="_blank">		- Urbanismo</A><br></td></font>]]>
+				</texto>
+	</registro>
+	<registro>
+			<menudependiente>Kioscos</menudependiente>
+				<dependiente>Kioscos de Prensa</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>KIOSCOS DE PRENSA EN VÍA PÚBLICA</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font color="#000000"><td>	OCOVAL realiza la gestión e inspección de los kioscos de venta de prensa y revistas instalados en la vía pública municipal, además de tramitar la autorización administrativa para su instalación, en aplicación de la vigente Ordenanza Reguladora de Actividades, Instalaciones y Ocupaciones en la Vía Pública de Valencia.
+</font><font color="#003366">¿Qué debe hacer para obtener la autorización?</font><font color="#000000">
+	Presentar una instancia (según modelo oficial) en OCOVAL o en los Registros de entrada del Ayuntamiento de Valencia solicitando la autorización para instalación de kiosco de prensa en vía pública.<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Solicitudgeneral.pdf" target="_blank"><u>Solicitud general</u></a>.
+</font><font color="#003366">¿Qué datos son necesarios?</font><font color="#000000">
+<ul><li>Fotocopia del D.N.I.</li><br><li>Carné de desempleo en vigor.</li><br><li>Certificado de demanda de empleo en vigor.</li><br><li>Certificado de invalidez (si la tuviere concedida).</li></ul>
+      <u>En el caso de un kiosco de nueva instalación, además de lo anterior:</u>
+<ul><li>Memoria descriptiva del tipo de ocupación que se va a realizar y del modelo de kiosco homologado por este Ayuntamiento.</li><br><li>Plano de situación acotado y con indicación de los elementos de mobiliario urbano existentes en el área de influencia de la ocupación.</li></ul>
+</font><font color="#003366">Debe saber que ...</font><font color="#000000">
+	 El kiosco a instalar no debe estar a menos de 250 metros del más próximo.
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono 96 337 02 28.
+</font><font color="#003366">Ordenanza Municipal</font><font color="#000000">
+	Es objeto de la Ordenanza Reguladora de Actividades, Instalaciones y Ocupaciones en la Vía Pública de Valencia, la regulación de las actividades en la vía pública, dentro del Término Municipal de Valencia, así como de las instalaciones u ocupación de la misma que supongan un uso especial de ésta.<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Ordenanzaactividadesviapublica.pdf" target="_blank"><u>Ordenanza</u></a> Municipal sobre Actividades en la Vía Pública.
+</td></font>]]></texto>
+	</registro>
+	<registro>
+			<menudependiente>Kioscos</menudependiente>
+				<dependiente>Kioscos de Flores</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>KIOSCOS DE FLORES EN VÍA PÚBLICA</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font color="#000000"><td>	La Oficina de Coordinación de Obras de Valencia gestiona la regularización de kioscos fijos en la vía pública destinados a la venta de flores, plantas y semillas.
+</font><font color="#003366">Para cualquier consulta ...</font><font color="#000000">
+	Diríjase a la Oficina de Coordinación de Obras en Vía Pública llamando al teléfono 963 37 02 28.
+</font><font color="#003366">Ordenanza Municipal</font><font color="#000000">
+	Es objeto de la Ordenanza Reguladora de Actividades, Instalaciones y Ocupaciones en la Vía Pública de Valencia, la regulación de las actividades en la vía pública, dentro del Término Municipal de Valencia, así como de las instalaciones u ocupación de la misma que supongan un uso especial de ésta.<img src="imagenes/icono2-pdf.png">
+<a href="archivos/Ordenanzaactividadesviapublica.pdf" target="_blank"><u>Ordenanza</u></a> Municipal sobre Actividades en la Vía Pública.
+</td></font>]]></texto>
+	</registro>
+	<registro>  
+				<menudependiente>Deficiencias</menudependiente>
+				<dependiente>Servicio 72 horas</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>SERVICIO 72 HORAS</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><td><img src="imagenes/72.png">  Reparación de Deficiencias en Vía Pública en 72 horas.	
+	   La Oficina de Coordinación de Obras de Valencia, entre otras funciones, se ocupa de recibir las reclamaciones de los ciudadanos sobre las deficiencias existentes en la vía pública de la ciudad: tapas en mal estado, socavones, enseres abandonados, baldosas rotas, bordillos en mal estado, señales tumbadas, farolas estropeadas, etc.	
+	El servicio 72 horas "Valencia Siempre Nueva" nace con la intención de, por un lado, que las infraestructuras mantengan un nivel de calidad digno de nuestra ciudad, y por otro, solicitar el protagonismo a cada uno de los valencian@s, para que entre todos cuidemos nuestra ciudad y sus equipamientos.	
+	El servicio 72 horas tiene como objetivo garantizar el óptimo mantenimiento de las calles de nuestra ciudad. Dedicará su atención a los detalles más pequeños y a los aspectos más cotidianos de Valencia, haciendo posible la reparación, en tan sólo 3 días, de los desperfectos en pavimentos comunicados por los propios ciudadanos en la vía pública. Este servicio se complementará con la colaboración de la Policía Local y con la aplicación de los últimos avances tecnológicos, que facilitará la transmisión de la información en tiempo real desde cualquier punto de la ciudad.	
+      Ponemos a disposición de los ciudadan@s un teléfono de atención gratuito</font><font color="#003366"> 900 72 11 72</font><font color="#000000"> donde nos pueden comunicar los desperfectos que detecten en sus barrios. También se puede utilizar el teléfono de información municipal</font><font color="#003366"> 010</font><font color="#000000">, nuestra dirección de correo electrónico deficiencias@ocoval.es o comunicando directamente con su policía de barrio. Por favor, indique su nombre, nº de teléfono y localización exacta de la deficiencia, especificando la calle y el número, y si está en acera o calzada. Nos pondremos en contacto con usted para informarle del proceso de reparación de la deficiencia.	
+    Participe y colabore con el Ayuntamiento para mejorar, entre todos, nuestra calidad de vida y aumentar los niveles de eficiencia y eficacia de los Servicios Públicos Municipales. Consigamos juntos una </font><font color="#003366">"Valencia Siempre Nueva".</font><font color="#000000">
+</td></font>]]></texto>
+	</registro>
+<registro>  
+				<menudependiente>Deficiencias</menudependiente>
+				<dependiente>Comunicar una Deficiencia</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>COMUNICAR UNA DEFICIENCIA</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><td></font>]]>
+				</texto>
+	</registro>
+	<registro>  
+				<menudependiente>Obras en Ejecución</menudependiente>
+				<dependiente>Obras en Ejecución</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>OBRAS EN EJECUCIÓN</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><td></td></font>]]>
+				</texto>
+	</registro>
+	<registro>  
+				<menudependiente>Integrantes</menudependiente>
+				<dependiente>Integrantes</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>INTEGRANTES</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<texto> <![CDATA[<font  color="#000000" size="11"><td>	El 3 de noviembre de 1992, nace la OFICINA DE COORDINACION DE OBRAS DE VALENCIA, A.I.E., formando parte de la misma el Exmo. Ayuntamiento de Valencia, Emivasa, Gas Natural Cegas, Iberdrola, Telefónica y ONO, con el objeto social de desarrollar un programa de gestión coordinada para la ejecución de las obras en la vía pública que realicen la Administración municipal y las compañías suministradoras de servicios públicos básicos.<br>
+     Se facilitan los trámites técnicos y administrativos para el otorgamiento de las licencias y autorizaciones, coordinación, planificación de las obras, programación y señalamiento para su ejecución.<br>
+    Transmitimos al ciudadano toda aquella información de interés que, como consecuencia de las obras, pueda afectar a su calidad de vida, siendo un instrumento eficaz en la comunicación entre la Administración Pública y la ciudadanía. De igual manera, existe una extensión del Registro General de entrada del Ayuntamiento de Valencia en nuestras oficinas para poder acercar más, si cabe, la Administración al ciudadano.	
+</td></font>]]>
+				</texto>
+	</registro>
+	<registro>  
+				<menudependiente>Integrantes</menudependiente>
+				<dependiente>Enlaces</dependiente>
+				<titulo><![CDATA[<font  color="#000000" size="16"><b>ENLACES</b></font>]]></titulo>
+			    <imagen></imagen>
+				<link></link>
+				<!--<texto> <![CDATA[<font  color="#000000" size="11"><td><A href="http://www.valencia.es" target="_blank">		Ayuntamiento Valencia</A><br><br><A href="http://www.ono.es" target="_blank">		Ono</A><br><br><A href="http://www.gasnatural.com" target="_blank">		GasNatural</A><br><br><A href="http://www.iberdrola.es" target="_blank">		Iberdrola</A><br><br><A href="http://www.telefonica.es" target="_blank">		Telefonica</A><br><br><A href="http://www.aguasdevalencia.es" target="_blank">		Emivasa</A><br><br><A href="http://www.valencia.es/ayuntamiento/trafico.nsf/vPortadasTituloAux/Portada?opendocument&lang=1&nivel=1" target="_blank">		Trafico</A><br><br><A href="http://www.valencia.es/urbanismo" target="_blank">		Urbanismo</A><br><br></td></font>]]>-->
+				<texto> <![CDATA[<font  color="#000000" size="11"><td><img src="img\logoEnlaces\todosok.gif"><br>		<A href="http://www.valencia.es" target="_blank">- Ayuntamiento Valencia </A><br><br><br><A href="http://www.aumsa.es" target="_blank">		- Aumsa</A><br><br><br><A href="http://www.aguasdevalencia.es" target="_blank">		- Emivasa</A><br><br><br><A href="http://www.gasnatural.com" target="_blank">		- GasNatural</A><br><br><br><A href="http://www.iberdrola.es" target="_blank">		- Iberdrola</A><br><br><br><A href="http://www.ono.es" target="_blank">		- Ono</A><br><br><br><A href="http://www.telefonica.es" target="_blank">		- Telefónica</A><br><br><br><A href="http://www.valencia.es/ayuntamiento/trafico.nsf/vPortadasTituloAux/Portada?opendocument&lang=1&nivel=1" target="_blank">		- Tráfico</A><br><br><br><A href="http://www.valencia.es/urbanismo" target="_blank">		- Urbanismo</A><br></td></font>]]>
+				</texto>
+	</registro>
+</MenuPrincipal>

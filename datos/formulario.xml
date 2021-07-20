@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Formulario>
+<!--en los textos con CDATA se puede usar todos los formatos de html, por ejemplo insertar una imagen o un vinculo href, etc...-->
+	<!--cada registro es un apartado del menu-->
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Nombre y Apellidos:</font>]]></texto>
+				<posx>30</posx>
+				<posy>0</posy>
+				<width>320</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>false</Grupoobligatorio>
+				<Grupo>resto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>imputtext</tipo>
+	</registro>
+	<registro> 
+	<!-- esto es solo la cabecera-->
+				<texto><![CDATA[<font color="#000000" size="12">Contacto (preferentemente teléfono móvil):</font>]]></texto>
+				<posx>50</posx>
+				<posy>50</posy>
+				<width>100</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>false</obligatorio>
+				<Grupoobligatorio>false</Grupoobligatorio>
+				<Grupo>texto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>texto</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Teléfono Móvil:</font>]]></texto>
+				<posx>50</posx>
+				<posy>70</posy>
+				<width>100</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>true</Grupoobligatorio>
+				<Grupo>contacto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>imputtext</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Email:</font>]]></texto>
+				<posx>50</posx>
+				<posy>120</posy>
+				<width>250</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>true</Grupoobligatorio>
+				<Grupo>contacto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>imputtext</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Teléfono Fijo:</font>]]></texto>
+				<posx>50</posx>
+				<posy>170</posy>
+				<width>100</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>true</Grupoobligatorio>
+				<Grupo>contacto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>imputtext</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Descripción de la Deficiencia:</font>]]></texto>
+				<posx>30</posx>
+				<posy>220</posy>
+				<width>320</width>
+				<height>120</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>false</Grupoobligatorio>
+				<Grupo>resto</Grupo>
+				<multiline>true</multiline>
+				<!--imputtext o combobox-->
+				<tipo>imputtext</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="10">(indicar calle y número y/o una referencia exacta para ubicarla)</font>]]></texto>
+				<posx>30</posx>
+				<posy>370</posy>
+				<width>320</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>false</obligatorio>
+				<Grupoobligatorio>false</Grupoobligatorio>
+				<Grupo>texto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>texto</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Localización de la Deficiencia:</font>]]></texto>
+				<posx>30</posx>
+				<posy>380</posy>
+				<width>320</width>
+				<height>60</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>false</Grupoobligatorio>
+				<Grupo>resto</Grupo>
+				<multiline>true</multiline>
+				<!--imputtext o combobox-->
+				<tipo>imputtext</tipo>
+	</registro>
+	<registro> 
+				<texto><![CDATA[<font color="#000000" size="14">Situación de la Deficiencia:</font>]]></texto>
+				<posx>30</posx>
+				<posy>470</posy>
+				<width>180</width>
+				<height>20</height>
+				<!--estos campos son true o false, si el grupo es obligatorio el campo obligatorio tambien lo es-->
+				<obligatorio>true</obligatorio>
+				<Grupoobligatorio>false</Grupoobligatorio>
+				<Grupo>resto</Grupo>
+				<multiline>false</multiline>
+				<!--imputtext o combobox-->
+				<tipo>combobox</tipo>
+				<combobox>
+					<combo>ACERA</combo>
+					<combo>CALZADA</combo>
+					<combo>JARDÍN</combo>
+					<combo>SETO CENTRAL</combo>
+					<combo>ROTONDA</combo>
+					<combo>CARRIL BICI</combo>
+					<combo>SOLAR</combo>
+					<combo>ALCORQUE</combo>
+					<combo>ARCÉN</combo>
+					<combo>ZANJA</combo>
+					<combo>FACHADA</combo>
+					<combo>PASO ELEVADO</combo>
+					<combo>PASO INFERIOR</combo>
+					<combo>ESCALERA</combo>
+					<combo>RAMPA</combo>
+				</combobox>
+	</registro>
+</Formulario>

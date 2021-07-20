@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuPrincipal>
+	<menu>
+		<nombre>Zanjas y Catas</nombre>
+		<submenus>
+			<submenu>
+				<nombre>Solicitud de Licencia</nombre>
+				<tipo>textos</tipo>
+				<pos>1</pos>
+			</submenu>	
+			<submenu>
+				<nombre>Ordenanza y Carteles</nombre>
+				<tipo>textos</tipo>
+				<pos>3</pos>
+			</submenu>
+			<submenu>
+				<nombre>Homologación</nombre>
+				<tipo>textos</tipo>
+				<pos>4</pos>
+			</submenu>
+			<submenu>
+				<nombre>Renovación homologación</nombre>
+				<tipo>textos</tipo>
+				<pos>16</pos>
+			</submenu>
+		</submenus>
+	</menu>
+	<menu>
+		<nombre>Soportes Publicitarios</nombre>
+		<submenus>
+			<submenu>
+				<nombre>Solicitud de Licencia</nombre>
+				<tipo>textos</tipo>
+				<pos>5</pos>
+			</submenu>
+			<submenu>
+				<nombre>Ordenanza y Placa</nombre>
+				<tipo>textos</tipo>
+				<pos>6</pos>
+			</submenu>
+			<submenu>
+				<nombre>Inscripción en Registro</nombre>
+				<tipo>textos</tipo>
+				<pos>7</pos>
+			</submenu>
+			<submenu>
+				<nombre>Renovación</nombre>
+				<tipo>textos</tipo>
+				<pos>15</pos>
+			</submenu>
+		</submenus>
+	</menu>
+	<menu>
+		<nombre>Ocoval</nombre>
+		<submenus>
+			<submenu>
+				<nombre>Integrantes</nombre>
+				<tipo>fotos</tipo>
+				<pos>13</pos>
+			</submenu>
+			<submenu>
+				<nombre>Enlaces</nombre>
+				<tipo>textos</tipo>
+				<pos>14</pos>
+			</submenu>
+		</submenus>
+	</menu>
+	<menu>
+		<nombre>Deficiencias</nombre>
+		<submenus>
+			<submenu>
+				<nombre>Servicio 72 horas</nombre>
+				<tipo>videos</tipo>
+				<pos>10</pos>
+			</submenu>
+			<submenu>
+				<nombre>Comunicar una Deficiencia</nombre>
+				<tipo>formularios</tipo>
+				<pos>11</pos>
+			</submenu>
+		</submenus>
+	</menu>
+	<menu>
+		<nombre>Obras en Ejecución</nombre>
+		<submenus>
+			<submenu>
+				<nombre></nombre>
+				<tipo>mapas</tipo>
+				<pos>12</pos>
+			</submenu>
+		</submenus>
+	</menu>
+		<menu>
+		<nombre>Integrantes</nombre>
+		<submenus>
+			<submenu>
+				<nombre>Integrantes</nombre>
+				<tipo>fotos</tipo>
+				<pos>13</pos>
+			</submenu>
+			<submenu>
+				<nombre>Enlaces</nombre>
+				<tipo>textos</tipo>
+				<pos>14</pos>
+			</submenu>
+		</submenus>
+	</menu>
+</MenuPrincipal>

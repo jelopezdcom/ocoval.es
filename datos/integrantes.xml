@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MenuPrincipal>
+<!--en los textos con CDATA se puede usar todos los formatos de html, por ejemplo insertar una imagen o un vinculo href, etc...-->
+	<!--cada registro es un apartado del menu-->
+	<registro> 
+				<dependiente>Emivasa</dependiente>
+				<link>http://www.aguasdevalencia.es</link>
+			    <imagen>imagenes/Emivasa.png</imagen>
+				<posx>100</posx>
+				<posy>20</posy>
+				<width>0</width>
+				<texto></texto>
+	</registro>
+	<registro> 
+				<dependiente>Telefonica</dependiente>
+				<link>http://www.telefonica.es</link>
+			    <imagen>imagenes/Telefonica.png</imagen>
+				<posx>270</posx>
+				<posy>10</posy>
+				<width>0</width>
+				<texto></texto>
+	</registro>
+	<registro> 
+				<dependiente>Iberdrola</dependiente>
+				<link>http://www.iberdrola.es</link>
+			    <imagen>imagenes/Iberdrola.png</imagen>
+				<posx>15</posx>
+				<posy>75</posy>
+				<width>0</width>
+				<texto></texto>
+	</registro>
+	<registro> 
+				<dependiente>GasNatural</dependiente>
+				<link>http://www.gasnatural.com</link>
+			    <imagen>imagenes/gasOK.png</imagen>
+				<posx>375</posx>
+				<posy>75</posy>
+				<width>0</width>
+				<texto></texto>
+	</registro>
+	<registro> 
+				<dependiente>ono</dependiente>
+				<link>http://www.ono.es</link>
+			    <imagen>imagenes/ono.png</imagen>
+				<posx>185</posx>
+				<posy>200</posy>
+				<width>0</width>
+				<texto></texto>
+	</registro>
+	<registro> 
+				<dependiente>Ayuntamiento</dependiente>
+				<link>http://www.valencia.es</link>
+			    <imagen>imagenes/Ayuntamiento.png</imagen>
+				<posx>150</posx>
+				<posy>110</posy>
+				<width>0</width>
+				<texto><!--[CDATA[<font color="#000000" size="16"><b>AJUNTAMENT DE VALENCIA</b></font>]]--></texto>
+	</registro>
+</MenuPrincipal>
